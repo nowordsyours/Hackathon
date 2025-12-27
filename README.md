@@ -362,9 +362,9 @@ The system includes hard coded demo data and scenerios:
 
 ### Data Privacy
 - **End-to-End Encryption**: Secure data transmission and storage of the data with proper encryption of data.
-- **User Privacy**: Anonymous usage tracking with GDPR compliance
-- **Access Control**: Multi-factor authentication and role-based permissions
-- **Audit Logging**: Complete activity tracking for security monitoring
+- **User Privacy**: The data of users remain private.
+- **Access Control**: Multi-factor authentication .
+- **Audit Logging**: activity tracking for security monitoring and privevntion against tampering.
 - **Data Anonymization**: Personal data protection in analytics
 
 ### System Security
